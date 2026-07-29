@@ -1,0 +1,6 @@
+{
+  "name": "TechSupporter Assistência Técnica",
+  "description": "Site profissional para TechSupporter Assistência Técnica - Especialistas em manutenção de computadores, notebooks, suporte remoto e soluções corporativas em TI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
